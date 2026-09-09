@@ -12,6 +12,13 @@ import com.knf.dev.librarymanagementsystem.vo.BookRecord;
 import com.knf.dev.librarymanagementsystem.vo.CategoryRecord;
 import com.knf.dev.librarymanagementsystem.vo.PublisherRecord;
 
+
+
+
+
+
+
+
 public class Mapper {
 
 	public static List<BookRecord> bookModelToVo(List<Book> books) {
